@@ -21,5 +21,7 @@ An Excel-based **data jobs analysis dashboard** designed to showcase my skills i
 <img width="862" height="452" alt="2_Project_Analysis_Chart4" src="https://github.com/user-attachments/assets/7dd4bf73-05d1-4e82-88f6-389a11277b23" />
 
 ## Files
-[Project_2_Analysis.xlsx](Second_Project_PowerPivot_DAX/Second_Project_PowerPivot_DAX.xlsx) → Final interactive dashboard
+[Second_Project_PowerPivot_DAX.xlsx](./Second_Project_PowerPivot_DAX.xlsx)
+
+
 
