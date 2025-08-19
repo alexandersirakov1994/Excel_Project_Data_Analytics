@@ -16,6 +16,8 @@ An interactive **Excel dashboard** built to analyze salaries in data-related job
 - Senior and engineering roles pay more than analyst positions  
 - Clear global salary differences across regions  
 - Dashboard interactivity improves exploration of job titles, locations, and schedules  
+![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/040f3064-706a-4c6b-9f95-0f934be6faa3)
+
 
 ## Files  
 [First_Project_Dashboards.xlsx](./First_Project_Dashboards.xlsx)
