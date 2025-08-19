@@ -18,4 +18,8 @@ An interactive **Excel dashboard** built to analyze salaries in data-related job
 - Dashboard interactivity improves exploration of job titles, locations, and schedules  
 
 ## Files  
-- `First_Project_Dashboard.xlsx` → Final interactive dashboard  
+[First_Project_Dashboards.xlsx](./First_Project_Dashboards.xlsx)
+
+
+
+
